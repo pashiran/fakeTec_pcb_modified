@@ -12,7 +12,7 @@ This project is forked from [gargomoma/fakeTec_pcb](https://github.com/gargomoma
 
 | Front | Back |
 | :------------ | :---------------------------- |
-|![image](https://github.com/gargomoma/fakeTec_pcb/blob/main/pics/front_fakeTec.png) | ![image](https://github.com/gargomoma/fakeTec_pcb/blob/main/pics/back_fakeTec.png) |
+|![image](https://github.com/pashiran/fakeTec_pcb_modified/blob/main/pics/pashiran_PCB_V1_Top.jpg) | ![image](https://github.com/pashiran/fakeTec_pcb_modified/blob/main/pics/pashiran_PCB_V1_Bottom.jpg) |
 
 </details>
 
