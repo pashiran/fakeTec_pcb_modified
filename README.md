@@ -1,5 +1,11 @@
-# fakeTec_pcb
-A low-cost nRF52 device with the form-factor of the Heltec v2 & v3 devices compatible with [Meshtastic](https://meshtastic.org/)®.
+# fakeTec_pcb_modified
+
+This project is forked from [gargomoma/fakeTec_pcb](https://github.com/gargomoma/fakeTec_pcb).
+
+## Main Changes
+- Added newly designed schematic and PCB using EasyEDA.
+- Modified the footprint to make soldering the NRF52840 board easier.
+- Changed some components.
 
 # Pictures
 <details><summary>Click to open</summary>
